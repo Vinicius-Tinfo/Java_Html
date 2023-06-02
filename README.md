@@ -1,0 +1,5 @@
+# Java_Html
+Fora separadas em 3 pastas pois meu nivel de compreensão sobre o assunto ainda e muito raso.
+Na pasta "PROJETO" foram colocas as primeiras versões dos codigos em HTML com o CSS imbutido.Na proxima versão irei colocar em documentos separados.
+A pasta "TRABALHO_JAVA" foi quando eu fiz para testar sem usar os metodos "get" e "set", deixando quase que tudo com as visualisações publicas.
+TRABALHO_JAVA_(get+set) Adicioneio os metos get e set mas ainda mantive como Metodo de primeira inserção de dados das classes(Lojas,fornecedor,funcionario,produto e vendas) o metodo "CADASTRAR" que esta presente em todas elas , que deve ser usado apenas no cadastro e para consultas e ediçoes posteriores utilizar o get e set.Nesta pastas as variaveis sao de carater privado sendo acessadas apenas pelos metodos de suas classes, inicialmente prentendia criar mais 2(dois) metodos, que seriam editar e excluir mas como  eles viram por meio de instancias da classe ainda estou realizando pesquisar se vale apena criar outros metodos ou apenas usar o get e set.
