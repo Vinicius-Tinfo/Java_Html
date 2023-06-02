@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class produto {
 	private String nome;
+	private	double preco;
 	private String getNome() {
 		return nome;
 	}
@@ -20,8 +21,7 @@ public class produto {
 		this.preco = preco;
 	}
 
-	double preco;
-	
+
 	public void Cadastro() {
 		Scanner Sc = new Scanner (System.in);	
 	System.out.print("");		
