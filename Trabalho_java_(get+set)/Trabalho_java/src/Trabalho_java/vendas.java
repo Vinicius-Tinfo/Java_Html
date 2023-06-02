@@ -2,7 +2,7 @@ package Trabalho_java;
 import java.util.Scanner;
 
 public class vendas {
-	String data;
+	private String data;
 	private String getData() {
 		return data;
 	}
