@@ -3,8 +3,8 @@ package Trabalho_java;
 import java.util.Scanner;
 
 public class funcionarios {
-String nome;
-long cpf;
+private String nome;
+private long cpf;
 
 
 private String getNome() {
