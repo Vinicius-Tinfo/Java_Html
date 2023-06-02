@@ -3,7 +3,7 @@ package Trabalho_java;
 import java.util.Scanner;
 
 public class produto {
-	String nome;
+	private String nome;
 	private String getNome() {
 		return nome;
 	}
