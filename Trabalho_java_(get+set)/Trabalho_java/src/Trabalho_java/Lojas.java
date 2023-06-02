@@ -3,8 +3,8 @@ package Trabalho_java;
 import java.util.Scanner;
 
 public class Lojas {
-	String nome,endereco;
-	long telefone;
+	private String nome,endereco;
+	private long telefone;
 	private String getNome() {
 		return nome;
 	}
