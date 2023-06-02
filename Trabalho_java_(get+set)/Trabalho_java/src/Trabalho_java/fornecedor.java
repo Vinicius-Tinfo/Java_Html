@@ -3,7 +3,7 @@ package Trabalho_java;
 import java.util.Scanner;
 
 public class fornecedor {
-long telefone;
+private long telefone;
 	public void Cadastro() {
 		Scanner Sc = new Scanner (System.in);	
 	System.out.print("");		
