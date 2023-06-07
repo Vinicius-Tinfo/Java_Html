@@ -1,7 +1,7 @@
 package Trabalho_java;
 import java.util.Scanner;
 
-public class Menu_Princiapal {
+public class Menu_Principal {
 
 	public static void main(String[] args) {
 		funcionarios funcionario = new funcionarios();
